@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>sole-protect</title>
+    <g id="sole-protect" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M41.3233198,22.3598501 C42.5177644,22.363308 43.5015635,23.6214292 43.6360121,25.2419763 L43.6477198,25.4305202 C43.7226168,27.6861968 45.2158978,28.4670079 47.4623794,28.7372887 L47.8665006,28.7798819 L48.0741714,28.7975719 L48.5002255,28.8264745 L48.9398861,28.847722 L49.3923409,28.8624923 L50.093235,28.8750789 L51.1171461,28.8794475 C52.0996064,28.8803362 52.9038231,29.639936 52.9749038,30.6033635 L52.9790902,30.7413917 L52.980011,39.9265761 C52.980011,42.0508911 51.2579032,43.7729886 49.1335883,43.7729886 L17.9290921,43.7722821 C23.2765191,41.1510834 27,35.1270135 27,28.7316875 L26.9992746,27.6158501 L38.4315098,22.9666903 C39.2690976,22.6355523 40.4739069,22.3606309 41.131433,22.3606309 L41.3233198,22.3598501 Z" id="Path" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+        <line x1="34.6881417" y1="24.77" x2="36.1609546" y2="28.03" id="Line" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+        <line x1="31.1629098" y1="26.2173451" x2="32.6357228" y2="29.4826549" id="Line" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+        <line x1="27.6376779" y1="27.67" x2="29.1104909" y2="30.93" id="Line" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+        <path d="M23.4508003,39.5213893 C29.8128447,39.5213893 39.3559112,39.5213893 52.08,39.5213893" id="Oval" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M15.25,15.38075 L3.5,19.787 L3.5,28.7316875 C3.5,36.148875 8.5084375,43.0666875 15.25,44.75575 C21.9915625,43.0666875 27,36.148875 27,28.7316875 L27,19.787 L15.25,15.38075 Z" id="Path" stroke="#000000" stroke-width="1.5" stroke-linejoin="round"></path>
+        <line x1="28.1104909" y1="12.4346787" x2="30.1104909" y2="14.4346787" id="Line-4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></line>
+        <line x1="28.1104909" y1="14.4346787" x2="30.1104909" y2="12.4346787" id="Line-5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></line>
+        <line x1="48.980011" y1="17.394" x2="50.980011" y2="19.394" id="Line-4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></line>
+        <line x1="48.980011" y1="19.394" x2="50.980011" y2="17.394" id="Line-5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></line>
+        <line x1="37.1099314" y1="49.5307629" x2="39.1099314" y2="51.5307629" id="Line-4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></line>
+        <line x1="37.1099314" y1="51.5307629" x2="39.1099314" y2="49.5307629" id="Line-5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></line>
+        <line x1="15.25" y1="16.06825" x2="15.25" y2="44.29175" id="Line-7" stroke="#000000" stroke-width="1.5" stroke-linecap="square"></line>
+        <line x1="4" y1="29.0495654" x2="27" y2="29.0495654" id="Line-11" stroke="#000000" stroke-width="1.5" stroke-linecap="square"></line>
+    </g>
+</svg>

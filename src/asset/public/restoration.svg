@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>restoration</title>
+    <g id="restoration" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M41.3233198,22.3598501 C42.5177644,22.363308 43.5015635,23.6214292 43.6360121,25.2419763 L43.6477198,25.4305202 C43.7226168,27.6861968 45.2158978,28.4670079 47.4623794,28.7372887 L47.8665006,28.7798819 L48.0741714,28.7975719 L48.5002255,28.8264745 L48.9398861,28.847722 L49.3923409,28.8624923 L50.093235,28.8750789 L51.1171461,28.8794475 C52.0996064,28.8803362 52.9038231,29.639936 52.9749038,30.6033635 L52.9790902,30.7413917 L52.980011,39.9265761 C52.980011,42.0508911 51.2579032,43.7729886 49.1335883,43.7729886 L17.9862793,43.7729886 C16.8397547,43.7729886 15.7682612,43.4517426 14.8568988,42.8943506 L14.8352591,42.894 C21.3246049,42.894 26.5852591,37.6333458 26.5852591,31.144 C26.5852591,30.0410489 26.4332917,28.9735917 26.1491531,27.9614246 L38.4315098,22.9666903 C39.2690976,22.6355523 40.4739069,22.3606309 41.131433,22.3606309 L41.3233198,22.3598501 Z" id="Path" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+        <line x1="34.6881417" y1="24.77" x2="36.1609546" y2="28.03" id="Line" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+        <line x1="31.1629098" y1="26.2173451" x2="32.6357228" y2="29.4826549" id="Line" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+        <line x1="27.6376779" y1="27.67" x2="29.1104909" y2="30.93" id="Line" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+        <path d="M23.5267246,39.5213893 C29.8718969,39.5213893 39.3896554,39.5213893 52.08,39.5213893" id="Oval" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+        <line x1="28.1104909" y1="12.4346787" x2="30.1104909" y2="14.4346787" id="Line-4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></line>
+        <line x1="28.1104909" y1="14.4346787" x2="30.1104909" y2="12.4346787" id="Line-5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></line>
+        <line x1="48.980011" y1="17.394" x2="50.980011" y2="19.394" id="Line-4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></line>
+        <line x1="48.980011" y1="19.394" x2="50.980011" y2="17.394" id="Line-5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></line>
+        <line x1="37.1099314" y1="49.5307629" x2="39.1099314" y2="51.5307629" id="Line-4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></line>
+        <line x1="37.1099314" y1="51.5307629" x2="39.1099314" y2="49.5307629" id="Line-5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></line>
+        <circle id="Oval" stroke="#000000" stroke-width="1.5" cx="14.8352591" cy="31.144" r="11.75"></circle>
+        <path d="M9.90754304,35.9016819 C11.1725147,37.1555366 12.9134441,37.93 14.8352591,37.93 C18.7012523,37.93 21.8352591,34.7959932 21.8352591,30.93 C21.8352591,27.0640068 18.7012523,23.93 14.8352591,23.93 C10.9692658,23.93 7.83525908,27.0640068 7.83525908,30.93" id="Path" stroke="#000000" stroke-width="1.5" stroke-linecap="round"></path>
+        <polygon id="Path-10" stroke="#000000" stroke-width="1.5" fill="#000000" stroke-linecap="round" stroke-linejoin="round" transform="translate(7.872238, 31.944000) scale(1, -1) translate(-7.872238, -31.944000) " points="6.3 32.744 7.87223828 31.144 9.44447657 32.744"></polygon>
+    </g>
+</svg>
